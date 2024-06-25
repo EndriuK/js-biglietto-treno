@@ -15,6 +15,7 @@ else if (eta > 65) {
 }
 
 if (sconto != 0 ) {
-
+    prezzoScontato = prezzoBiglietto * sconto / 100;
+    prezzoFinale = prezzoBiglietto - prezzoScontato
 }
 
